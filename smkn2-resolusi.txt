@@ -2,3 +2,5 @@ SMKN 2 Rosulusi
 - Konsisten untuk ngoding
 - lanjut ngoding 
 - sampai jadi aplikasi 
+- selanjutnya bisa di tes
+- dan di coba oleh siswa
